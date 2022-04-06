@@ -1,5 +1,5 @@
 # RequirementEngineering
-Project for Uni  
+Project for Uni  made by 4 students during Erasmus Exchange
 
 The project consisted in proposing a solution for a selected institution.
 The aim of the course was to learn effective communication between the client and the executive team.
